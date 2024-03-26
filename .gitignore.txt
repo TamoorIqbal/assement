@@ -1,1 +1,1 @@
-node_modules/
+assessment-backend/node_modules/
